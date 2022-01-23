@@ -11,5 +11,17 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /// @custom:security-contact nfgenes@protonmail.com
 contract NFgenesList is Ownable {
+    string public geneList;
 
+    constructor(string memory _geneList) {
+        geneList = _geneList;
+    }
+
+    function updateGeneList(string memory _geneList) public onlyOwner {
+        geneList = _geneList;
+    }
+
+    function getGeneListURI() public view returns (string memory) {
+        return geneList;
+    }
 }
