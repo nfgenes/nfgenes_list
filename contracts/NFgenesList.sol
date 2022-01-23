@@ -20,8 +20,4 @@ contract NFgenesList is Ownable {
     function updateGeneList(string memory _geneList) public onlyOwner {
         geneList = _geneList;
     }
-
-    function getGeneListURI() public view returns (string memory) {
-        return geneList;
-    }
 }
