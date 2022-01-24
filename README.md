@@ -5,3 +5,6 @@ This can be accomplished by this smart contract that will store the URI pointer 
 
 ## Overview
 ![NFgenes List Overview](https://github.com/nfgenes/nfgenes_list/blob/main/NFgenes_Genesis_List_Overview.svg)
+
+## NFgenes List Contract
+- [Rinkeby Network](https://rinkeby.etherscan.io/address/0xfb5b218698ca952fcca7e6d27955de0df639138a)
