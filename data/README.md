@@ -1,19 +1,8 @@
-# NFgenes (NonFungible Genes) Overview
-
-NFgenes is a decentralized science (DeSci) project aiming to bring data and collaboration for human genome research to the blockchain. Share knowledge, create value, build a community and teach science.
-
-- [Roadmap](https://github.com/nfgenes/overview#roadmap)
-- [NFgene List and Genesis Collection](https://github.com/nfgenes/nfgenes_list#nfgenes-nonfungible-genes-overview)
-    - [NFgenes List](https://github.com/nfgenes/nfgenes_list/tree/main/data#nfgenes-list)
-        - [Demo Proof of Concept: Storing NFgenes List on IPFS](https://nfgeneslist.onrender.com/)
-        - [Repository](https://github.com/nfgenes/front_end_nfgenes_list#nfgenes-nonfungible-genes-overview)
-    - [Genesis NFT Collection](https://github.com/nfgenes/nfgenes_contract)
-- [Methodology for Compiling original list of NFgenes](https://github.com/nfgenes/compile_genesis_gene_list)
-------------
-
 # NFgenes List
 The source list of unique human genes will be maintained in this public repository. Anyone will have the ability to submit a pull request to make changes to the list. PR requests will be passed along to the DAO for review and approval. Once a change has been approved by the DAO, the PR will be merged and the new list will be uploaded to IPFS and the contract updated with the new URI.
 
 # Current list on IPFS
 - Hash: QmVyMVaxVfYvqfqcjpntYNYhq8eqU7uHaT9KU5wN5xgFYh
 - URL: https://ipfs.io/ipfs/QmVyMVaxVfYvqfqcjpntYNYhq8eqU7uHaT9KU5wN5xgFYh
+
+Learn more about the [NFgenes 🧬⛓ project](https://github.com/nfgenes/overview#nfgenes-nonfungible-genes-overview)
